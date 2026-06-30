@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "file.txt"
+hash = "d9f7854cd39ab81e92c33ba192a71e94976acb2a2550c61337a49f2d663d309f"

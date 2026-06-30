@@ -1,0 +1,13 @@
+name = "cloudless"
+author = "khazoda"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d228d64309b6874a1fc3c54afd85df8066022c8f16158be04b45514607da2374"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
