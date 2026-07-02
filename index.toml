@@ -1,8 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/treephysics-common.toml"
+hash = "969a70a7fe0f48c3d70814872a7f42ab3cbdac03edd46a5f0a85000aa4baa7b1"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "8701147e720fee1d819e315b34dbe6ca0e876c0f88283f0c2fd175db348923d2"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "455f80502af849392aa3210b5da1a30adfbcd62fd83512db6773716e6d706d29"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "f301f059c76ece8badbcdd250ef2ac2aadf66a2759d088f95ab74c23279585e1"
+metafile = true
+
+[[files]]
+file = "mods/biome-dither.pw.toml"
+hash = "95268422f70ebcc00a1d4c63e8466bbb61a4d802866a38984f95a617ec3555f7"
 metafile = true
 
 [[files]]
@@ -33,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
 metafile = true
 
 [[files]]
