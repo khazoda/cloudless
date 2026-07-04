@@ -1,0 +1,13 @@
+name = "Montana's Bushier Kelp"
+filename = "Bushier Kelp.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sCH1CEfh/versions/9O25uyHw/Bushier%20Kelp.zip"
+hash-format = "sha512"
+hash = "30f0af53c9a81464d84da5a96eb4d4ac547e269a3e7502ea934855fcffc3548e6f03b358faca7525683434a6c20aad04fb55516bd0e8b768f757115d3bd8737c"
+
+[update]
+[update.modrinth]
+mod-id = "sCH1CEfh"
+version = "9O25uyHw"
