@@ -5,6 +5,10 @@ file = "config/defaultoptions/extra/config/create-client.toml"
 hash = "3610671dc6fcfe6bd240936262bf44468371a54e9daae069a4ade5815fb72714"
 
 [[files]]
+file = "config/defaultoptions/extra/config/create_submarine-common.toml"
+hash = "49061b53dbf3333a4409b044b5e0f37d2e1c01aaf4af548311af9770749c986f"
+
+[[files]]
 file = "config/defaultoptions/extra/config/simplemenu.json5"
 hash = "cdedb46ce2af1fedae984b8e285d6a3ff1e008fc7c4280faba0c4317bcc91f63"
 
@@ -21,6 +25,14 @@ file = "config/defaultoptions/extra/config/treephysics-common.toml"
 hash = "969a70a7fe0f48c3d70814872a7f42ab3cbdac03edd46a5f0a85000aa4baa7b1"
 
 [[files]]
+file = "config/defaultoptions/extra/config/xaero/lib/common.cfg"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaero/world-map/client.cfg"
+hash = "cd912d93edb33db50987ad7127ce08687106fa15ce7fe6849d74901115c13e80"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "8701147e720fee1d819e315b34dbe6ca0e876c0f88283f0c2fd175db348923d2"
 
@@ -29,8 +41,18 @@ file = "config/defaultoptions/options.txt"
 hash = "455f80502af849392aa3210b5da1a30adfbcd62fd83512db6773716e6d706d29"
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "624c639ef3d79f0f4dbdc06ef0a3ec67aea295845368a172dca5c47f743c5596"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
 hash = "3f866cfbaad92b14b25f4b132310c895d83e364bcd2aa2b0375796be42f99480"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-wind-sound.pw.toml"
+hash = "980a23bd1d06f53cf9c912293cf0a9233c06c729d586c4e38fab26b6f4c125b7"
 metafile = true
 
 [[files]]
@@ -119,8 +141,18 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "afd12933b4ddf5310eeaeab4437d9e20d53f361dee6b6491745e78a46bf24870"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
@@ -134,6 +166,11 @@ hash = "f31d141f2116eacf2c13a42330017d00d4be74aa768f476d0e32f426457d49e9"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "db2ec960ce42b3d381003c82cff71e68a7c55c68117c3bf43ad2418111260065"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-encased-fluid-pipes.pw.toml"
 hash = "c43a63422172da82f7bf9331f54b298058df9fbef57cb32473de691ce91f580d"
 metafile = true
@@ -141,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-offroad-addon-stickywheels.pw.toml"
 hash = "48a4a75a512a6a393644f42f6b4deeed25f2623e42c0d325c6384e8b6d861b45"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
+hash = "aa69dc9a1d57d4c3c4f83627017b5a741c301f42f83f25a47bc420e869f9d931"
 metafile = true
 
 [[files]]
@@ -206,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "125fa69ac8e6e85c9d27a0ec13e575c09312c6e5fd2f97613fbcc85a19775a13"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "b06582bdf461277d180b55a2ffc6ab3f41196858c4866692bf473a6413d867f4"
 metafile = true
 
 [[files]]
@@ -299,6 +346,16 @@ hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]
+file = "mods/create-lift-n-load.pw.toml"
+hash = "77fe9aeb9f970359adfbe2b929ffc65b595dd5dbe48bc164c04601bbd19322fa"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
+metafile = true
+
+[[files]]
 file = "mods/create-meta-logistics.pw.toml"
 hash = "9be9defcf19f0cae1b38f3775d832b84f8f6f9724e3ea2309bccdcd7adc1afdc"
 metafile = true
@@ -355,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
+hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
 metafile = true
 
 [[files]]
@@ -365,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-rail-grinding.pw.toml"
-hash = "c71bb895f0149f9df4eb89168b818cbd77cb83bf5a11954bee8a60a26ef28ea7"
+hash = "96cb3a63a8cea76798153bfeeedab94d487210040a07b08c2df0e401ea85c137"
 metafile = true
 
 [[files]]
@@ -376,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
+metafile = true
+
+[[files]]
+file = "mods/create-springs.pw.toml"
+hash = "34953474ddd263ab9a4ebed2261f13b3e2a5eb45191e7b4c4108c860de46dcf9"
 metafile = true
 
 [[files]]
@@ -399,6 +461,11 @@ hash = "936a7852aaee66384d1d9564536894c353803468ce32fa6697d6a0f54bc8b3fe"
 metafile = true
 
 [[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
@@ -416,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
+metafile = true
+
+[[files]]
+file = "mods/create-xaeros-map.pw.toml"
+hash = "b3999049733f8146ca809825b065880acc2e3e1fee5603a0534f2605de191cf3"
 metafile = true
 
 [[files]]
@@ -525,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "198c99aecc2dfae1a25ca18b2563aef02e6226b844867a01c56db7073a494797"
+hash = "9ed1eaf83cba3c914765631afb2dbea9291ca4314d092304ab23826b1a727c0b"
 metafile = true
 
 [[files]]
@@ -571,6 +643,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -649,6 +731,11 @@ hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
 file = "mods/plushables.pw.toml"
 hash = "d847ee3a226de53c2500507ae1d62b58680ae9c182448216470a0796bed59f39"
 metafile = true
@@ -656,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+metafile = true
+
+[[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
 metafile = true
 
 [[files]]
@@ -681,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
@@ -764,6 +861,11 @@ hash = "77cd6dff44c354708890af44051f819a32c1a2fc51a908e1330bec4d7a68a683"
 metafile = true
 
 [[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "6c9883d2fa1643fe221307ab0101fbccb204c80953989d3e064872b4f45efd34"
+metafile = true
+
+[[files]]
 file = "mods/windchime.pw.toml"
 hash = "4f2cca619905baaba313727f9977360126908ba3facf8c9cb694bd5807650dba"
 metafile = true
@@ -776,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
